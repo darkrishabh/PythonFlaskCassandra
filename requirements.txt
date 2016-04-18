@@ -1,0 +1,10 @@
+cassandra-driver==3.2.1
+Cython==0.24
+Flask==0.10.1
+Flask-Script==2.0.5
+futures==3.0.5
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+six==1.10.0
+Werkzeug==0.11.8
